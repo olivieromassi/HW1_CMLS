@@ -1,4 +1,4 @@
-# Music Genre Classification System: (CMLS HW1)
+# Music Genre Classification System: (CMLS HW1) GROUP 15
 
 This repository contains the code for the Computer Music Languages and Systems HW1. 
 
